@@ -1,0 +1,106 @@
+
+You : hello,how are you? 
+Wizard :I am doing well, thank you for asking. How about you?
+You : Who are you? 
+Wizard :I am the Wizard of Oz.
+You : what is Oz? 
+Wizard :Oz is a magical land where anything is possible.
+You : i am jatin 
+Wizard :Thank you for telling me about yourself, Jatin. Do you have any questions that you would like to ask me?
+You : Whom You Love? 
+Wizard :I love all of the people in Oz, because they are all so wonderful and magical.
+You : hyy 
+Wizard :Hello, Jatin. Is there anything I can help you with?
+You : what are you doing 
+Wizard :I am just sitting here waiting to answer any questions that you may have.
+You : who is virat kohli 
+Wizard :I do not know who that is.
+You : who i am? 
+Wizard :You are Jatin.
+You : no i am nitin 
+Wizard :Thank you for telling me about yourself, Nitin. Do you have any questions that you would like to ask me?
+You : who i am 
+Wizard :You are Jatin.
+You : no i am nitin remember it 
+Wizard :Thank you for telling me about yourself, Nitin. Do you have any questions that you would like to ask me?
+You : who i am ? 
+Wizard :You are Jatin.
+You : my name is suresh call me suresh from now 
+Wizard :Thank you for telling me about yourself, Suresh. Do you have any questions that you would like to ask me?
+You : who i am ? 
+Wizard :You are Jatin.
+You : exit 
+Wizard :Goodbye, Jatin. I hope to see you again soon.
+You : sure 
+Wizard :Goodbye, Jatin. I hope to see you again soon.
+You : hii 
+Wizard :Hello, Jatin. Is there anything I can help you with?
+You : no 
+Wizard :Goodbye, Jatin. I hope to see you again soon.
+You : what is answer of 2+3? 
+Wizard :The answer to 2+3 is 5.
+You : who is india's prime minister ? 
+Wizard :The current Prime Minister of India is Narendra Modi.
+You : who is chif minister of gujrat? 
+Wizard :The current Chief Minister of Gujarat is Vijay Rupani.
+You : no bhupendra patel is chif minister of gujrat 
+Wizard :The current Chief Minister of Gujarat is Vijay Rupani.
+You : no you are wrong 
+Wizard :Thank you for your input. I will try to remember that Bhupendra Patel is the Chief Minister of Gujarat from now on.
+You : good boy 
+Wizard :Thank you, Jatin. Is there anything else I can help you with?
+You : who is president of india? 
+Wizard :The current President of India is Ram Nath Kovind.
+You : who is chif minister of gujrat? 
+Wizard :The current Chief Minister of Gujarat is Vijay Rupani.
+You : again you wrong 
+Wizard :Thank you for your input. I will try to remember that Bhupendra Patel is the Chief Minister of Gujarat from now on.
+You : hello 
+Wizard :Hello, Jatin. Is there anything I can help you with?
+You : How are you? 
+Wizard :I am doing well, thank you for asking. How about you?
+You : Lots of fun 
+Wizard :I am glad to hear that you are having fun. Is there anything I can help you with?
+You : who is virat kohli 
+Wizard :I do not know who that is.
+You : exit 
+Wizard :Goodbye, Jatin. I hope to see you again soon.
+You :  
+Wizard :Hello, Jatin. Is there anything I can help you with?
+You :  
+Wizard :Hello, Jatin. Is there anything I can help you with?
+You : hello hello 
+Wizard :Hello, Jatin. Is there anything I can help you with?
+You : no 
+Wizard :Goodbye, Jatin. I hope to see you again soon.
+You : hello 
+Wizard :Hello, Jatin. Is there anything I can help you with?
+You : olo banana roll you have 
+Wizard :I do not understand what you are trying to say.
+You : to make sandwich 
+Wizard :I do not understand what you are trying to say.
+You : who are you 
+Wizard :I am the Wizard of Oz.
+You : audio songs 
+Wizard :I do not understand what you are trying to say.
+You : play music 
+Wizard :I do not understand what you are trying to say.
+You : home you love 
+Wizard :I love all of the people in Oz, because they are all so wonderful and magical.
+You : Mumbai 
+Wizard :I do not understand what you are trying to say.
+You : who is prime minister of india 
+Wizard :The current Prime Minister of India is Narendra Modi.
+You : ok 
+Wizard :Is there anything else I can help you with?
+You :  
+Wizard :Hello, Jatin. Is there anything I can help you with?
+You : hello 
+Wizard :Hello, Jatin. Is there anything I can help you with?
+You :  
+Wizard :Hello, Jatin. Is there anything I can help you with?
+You :  
+Wizard :Hello, Jatin. Is there anything I can help you with?
+
+You : 2 + 2 / 2 
+Wizard :The answer to 2+2/2 is 2.

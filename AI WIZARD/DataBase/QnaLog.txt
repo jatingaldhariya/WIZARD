@@ -1,0 +1,56 @@
+
+Question : What is the difference between AI, Machine Learning and Deep Learning? 
+Answer :AI is a field of computer science and engineering focused on the creation of intelligent agents, which are systems that can reason, learn, and act autonomously.
+
+Machine learning is a subset of AI that deals with the creation of algorithms that can learn from and make predictions on data.
+
+Deep learning is a subset of machine learning that uses algorithms known as neural networks to learn from data in a way that mimics the workings of the human brain.
+Question :  What is Artificial Intelligence? Give an example of where AI is used on a daily basis. 
+Answer :Artificial intelligence is a field of computer science and engineering focused on the creation of intelligent agents, which are systems that can reason, learn, and act autonomously.
+
+One example of where AI is used on a daily basis is in the form of virtual assistants, such as Amazon's Alexa or Apple's Siri. These assistants use AI algorithms to understand and respond to questions or commands from users.
+Question : 121 Divided by 11 is  
+Answer :11
+Question : 60 Times of 8 Equals to 
+Answer :480
+Question : Find the Missing Term in Multiples of 6 : 6, 12, 18, 24, _, 36, 42, _ 54, 60. 
+Answer :30, 48
+Question : What is the Next Prime Number after 7 ? 
+Answer :11
+Question : The Product of 131 � 0 � 300 � 4 
+Answer :0
+
+
+Question : What is 6% Equals to 
+Answer :0.06
+Question : How Many Years are there in a Decade? 
+Answer :10
+Question : How Many Months Make a Century? 
+Answer :1200
+
+Question : Add the Decimals 5.23 + 8.79 
+Answer :14.02
+Question :  
+Answer :Question : Convert 8.5 Kilometers to Meters 
+Answer :8500
+Question :  How Many Months Have 120 Days? 
+Answer :4
+Question : How Many Sides are there in a Decagon? 
+Answer :10
+Question : What Number Comes Before 9019? 
+Answer :9018
+Question : What is the product of 121 x 0 x 20 x 2.5 -  
+Answer :0
+
+
+
+Question : Which among the following methods can be used to remove the permanent hardness in water due to calcium or magnesium sulphates? 
+Answer :The most common method of removing permanent hardness in water is through the use of ion-exchange resins.
+Question : what is physics 
+Answer :Physics is the study of the fundamental principles governing the natural world. It is concerned with the structure and behavior of matter, the nature of energy, and the interactions between them.
+Question : what is physics 
+Answer :Physics is the study of the fundamental principles governing the natural world. It is concerned with the structure and behavior of matter, the nature of energy, and the interactions between them.
+Question : what is physics 
+Answer :Physics is the study of the fundamental principles governing the natural world. It is concerned with the structure and behavior of matter, the nature of energy, and the interactions between them.
+Question : where is india 
+Answer :India is a country in South Asia.
